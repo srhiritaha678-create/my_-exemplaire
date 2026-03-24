@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "ahmed",
+    "groupe": "dev134",
+    "etidian": "DEV"
+  },
+  {
+    "id": 2,
+    "name": "taha",
+    "groupe": "dev134",
+    "etidian": "DEV"
+  },
+  {
+    "id":3,
+    "name":"yassine",
+    "groupe":"dev134",
+    "etidian":"DEV"
+  }
+]
